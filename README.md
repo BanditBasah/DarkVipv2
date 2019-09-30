@@ -7,4 +7,3 @@
 <li><code>cd DarkVip</code></li>
 <li><code>pip2 install -r requirements.txt</code></li>
 <li><code>python2 darkvipv2.py</code></li>
-<img src="https://github.com/BanditBasah/DarkVipv2/Screenshot_2019-10-01-02-32-52.png" />
