@@ -10,4 +10,4 @@
 </ul>
 <br />
 <br />
-<img src="https://github.com/TheMagizz/DarkVip/raw/master/PicSayPro/20180921_160805-picsay.jpg" />
+<img src="https://github.com/BanditBasah/DarkVipv2/Screenshot_2019-10-01-02-32-52.png" />
