@@ -6,4 +6,4 @@
 <li><code>git clone https://github.com/BanditBasah/DarkVipv2</code></li>
 <li><code>cd DarkVipv2</code></li>
 <li><code>pip2 install -r requirements.txt</code></li>
-<li><code>python2 darkvipv2.py</code></li>
+<li><code>python2 darkv2.py</code></li>
